@@ -1,9 +1,5 @@
 # React Native Pokédex App
 
-## Demo
-
-![Pokedex App Demo](./docs/pokedex-app.gif)
-
 ## About the project
 
 Created with [Expo](https://expo.dev/) and JavaScript. Renders pokemons list and a detail page. It uses a locally saved user and allows you to select pokemons as favorites.
